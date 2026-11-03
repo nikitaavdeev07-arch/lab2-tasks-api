@@ -212,27 +212,27 @@ app.listen(port, () => {
   console.log(`Сервер запущен на http://localhost:${port}`);
 });
 
-## Результаты проверки
+### Результаты работы индивидуального задания
 
-### Корневой маршрут
+**Корневой маршрут**
 ![Корневой маршрут](screenshots/root.png)
 
-### GET /items (с поиском, сортировкой и пагинацией)
+**GET /items (с поиском, сортировкой и пагинацией)**
 ![GET](screenshots/get.png)
 
-### POST /items (с валидацией)
+**POST /items (с валидацией)**
 ![POST](screenshots/post.png)
 
-### PUT /items/:id
+**PUT /items/:id**
 ![PUT](screenshots/put.png)
 
-### DELETE /items/:id
+**DELETE /items/:id**
 ![DELETE](screenshots/dele.png)
 
-### Обработка 404
+**Обработка 404**
 ![404 Not Found](screenshots/404.png)
 
-### Логи запросов
+**Логи запросов в терминале**
 ![Nodemon](screenshots/nodemon.png)
 
 ## Ответы на контрольные вопросы
