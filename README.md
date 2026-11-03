@@ -218,16 +218,16 @@ app.listen(port, () => {
 ![Корневой маршрут](screenshots/root.png)
 
 ### GET /items (с поиском, сортировкой и пагинацией)
-![Корневой маршрут](screenshots/get.png)
+![GET](screenshots/get.png)
 
 ### POST /items (с валидацией)
-![Пользователи](screenshots/post.png)
+![POST](screenshots/post.png)
 
 ### PUT /items/:id
-![Роли](screenshots/put.png)
+![PUT](screenshots/put.png)
 
 ### DELETE /items/:id
-![Роли](screenshots/delete.png)
+![DELETE](screenshots/delete.png)
 
 ### Обработка 404
 ![404 Not Found](screenshots/404.png)
