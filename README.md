@@ -227,7 +227,7 @@ app.listen(port, () => {
 ![PUT](screenshots/put.png)
 
 ### DELETE /items/:id
-![DELETE](screenshots/delete.png)
+![DELETE](screenshots/dele.png)
 
 ### Обработка 404
 ![404 Not Found](screenshots/404.png)
@@ -281,3 +281,6 @@ PUT используется для полного обновления ресу
 4. Официальная документация Nodemon. — Текст: электронный // npm: [сайт]. — URL: https://www.npmjs.com/package/nodemon (дата обращения: 03.11.2026).
 5. Руководство по архитектуре REST API. — Текст: электронный // Habr: [сайт]. — URL: https://habr.com/ru/articles/483202/ (дата обращения: 03.11.2026).
 6. Методические указания к лабораторной работе №2 «Изучение HTTP-методов и их применения для реализации CRUD-операций». — [Б. м.: б. и.], 2026. — 17 с.
+
+
+## Ссылка на github:https://github.com/nikitaavdeev07-arch/lab2-tasks-api
